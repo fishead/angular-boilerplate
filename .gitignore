@@ -25,3 +25,15 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
+# Custom
+.idea
+dist/bundle.js
+dist/bundle.js.map
+dist/vendor.bundle.js
+dist/vendor.bundle.js.map
+dist/*.woff2
+dist/*.svg
+dist/*.ttf
+dist/*.eot
+dist/*.woff
